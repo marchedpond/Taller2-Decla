@@ -1,3 +1,6 @@
-Taller 2 Programacion Declarativa
+# Taller 2 – Programación Declarativa
 
-Josue Alfredo Mejia Urias - 00000921
+**Estudiante:** Josue Alfredo Mejia Urias  
+**Carné:** 00000921
+
+Este repositorio contiene las soluciones de los 12 ejercicios del Taller 2 de Programación Declarativa, implementados en Racket.
